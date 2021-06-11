@@ -1,6 +1,9 @@
-title: SUD0X0
-description: Blog about penetration testing and exploit writting.
+encoding: utf-8
+lang: en-GB
+title: "SUD0X0"
+description: "Blog about penetration testing and exploit writting."
 url: "https://sud0x0.com"
+baseurl: ""
 
 kramdown:
   input: GFM
@@ -9,7 +12,8 @@ kramdown:
     css_class: 'highlight'
 
 plugins:
-  - jekyll-sitemap 
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 exclude:
   - CNAME
