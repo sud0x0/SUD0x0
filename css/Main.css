@@ -51,11 +51,13 @@ ul.scl_0x0 li {
     font-family: 'Noto Sans', sans-serif;
     font-weight: 600;
 }
+
 .B_0x0, body>footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-}
+}    
+
 .x_0x0 {
 padding: 1.75em;
   font-family: 'Noto Sans', sans-serif;
