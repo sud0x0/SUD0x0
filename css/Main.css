@@ -139,6 +139,7 @@ input[type=submit]:hover {
     }
 }
 
+@media screen and (min-width: 70em) {
 .A_0x0 {
       font-size: 1.08em;
       margin: 0 0 0 16.5em;
@@ -180,7 +181,4 @@ padding: .5em 2.25em;
 .x_0x0:not(:last-child) {
     border-bottom-color: rgba(142,142,145,0.2);
 }
-
-.selected {
-    color: #237c16 !important;
 }
