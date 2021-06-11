@@ -4,10 +4,8 @@
   <div class="brdrs_0x0"></div>
   <div class="null_0x0"></div>
   <nav class="n_0x0">
-    <a aria-label="Home" href="{{ site.baseurl}}" class="{% if page.url == site.baseurl | append:
-      '/index.html' %} selected{% endif %}"><span aria-hidden="true">Home</span></a>
-    <a aria-label="Info" href="{{ site.baseurl | append: '/about-me.html' }}" class="{% if page.url ==
-      site.baseurl | append: '/about-me.html' %} selected{% endif %}"><span aria-hidden="true">Info</span></a>
+    <a aria-label="Home" href="{{ site.url}}" class="{% if page.url == site.url | append: '/index.html' %} selected{% endif %}"><span aria-hidden="true">Home</span></a>
+    <a aria-label="Info" href="{{ site.url | append: '/about-me.html' }}" class="{% if page.url == site.baseurl | append: '/about-me.html' %} selected{% endif %}"><span aria-hidden="true">Info</span></a>
   </nav>
   <div class="null_0x0"></div>
   <div class="brdrs_0x0"></div>
