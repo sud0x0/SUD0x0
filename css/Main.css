@@ -1,0 +1,183 @@
+* {font-family: 'Josefin Sans', sans-serif;}
+.x_0x0, .x_0x0 h1, .x_0x0 p {
+    color: #17181c;
+    }
+.A_0x0 {
+        background-color: #ffffff;
+    }
+.B_0x0 {
+    /*background: #1e1f25;*/
+    /*color: #fff;*/
+        background: #17181c;
+        color: #ffffff;
+        animation:300ms all ease-in-out;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.x_0x0:not(:last-child) {
+    border-bottom: 1px solid rgba(142,142,145,0.12);
+}
+.fim_logo{width:100%;}
+.sud0{font-family:'monospace'; font-size:30px; font-weight:bold; text-align: center; letter-spacing: 10px;}
+ul.scl_0x0 {
+    list-style: none;
+    padding: 0 !important;
+    text-align: center;
+}
+ul.scl_0x0 li {
+    display: inline-block;
+    padding: 10px;
+}
+.null_0x0 {
+    display:block;
+    width:100%;
+    height:20px;
+}
+.brdrs_0x0 {
+    width: 100%;
+    height: 1px;
+    background: #242424;
+    box-shadow: 0px 1px 0px 0px rgb(16 16 16 / 48%);
+}
+.B_0x0 {padding: 1em;}
+.n_0x0 {
+    margin: .5em -.8em;
+}
+.n_0x0 a {
+    margin: .5em .8em;
+}
+
+.B_0x0 a, .f_0x0 a {
+    color: inherit;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+}
+.B_0x0, body>footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.x_0x0 {
+padding: 1.75em;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.x_0x0 header {
+    margin-bottom: 1.5em;
+}
+.x_0x0 header h1 {
+    font-size: 1.8em;
+}
+.B_0x0 time {
+    color: #8e8e91;
+}
+a {
+    color: #1c780f;
+    text-decoration: inherit;
+}
+.more {
+    margin: 2em 0 1em;
+}
+.more a {
+    border-radius: 2px;
+    border: 1.5px solid #1c780f;
+    padding: .4em .8em;
+    transition: .2s;
+    text-transform: capitalize;
+}
+.more a:hover {
+    color: white;
+    background: #1c780f;
+}
+.btn-bck {
+    border-radius: 2px;
+    border: 1.5px solid #1c780f;
+    padding: .4em .8em;
+    transition: .2s;
+    text-transform: capitalize;
+    cursor:pointer;
+    font-size: 1.08em;
+}
+.btn-bck:hover {
+    color: white;
+    background: #1c780f;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 2px;
+    border: 1.5px solid #1c780f;
+    transition: .2s;
+    text-transform: capitalize;
+    background: transparent;
+    color: #1c780f;
+    font-size: 20px;
+}
+
+input[type=submit]:hover {
+    color: white;
+    background: #1c780f;
+}
+@media (max-width: 80em){
+.C_0x0{display: none;}
+.null_0x0{display:none;}
+}
+
+@media (max-width: 480px) {
+    .B_0x0 {
+    display: block;
+    text-align:center;
+    }
+}
+
+.A_0x0 {
+      font-size: 1.08em;
+      margin: 0 0 0 16.5em;
+      max-width: inherit;
+      overscroll-behavior: none;
+}
+.B_0x0 {
+    display: block;
+    position: fixed;
+    overflow: auto;
+    /*background: #17181c;*/
+    /*color: #fff;*/
+    border: none;
+    box-shadow: none;
+    opacity: .98;
+    margin: 0;
+    padding: 2.25em;
+    width: 12em;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+.fim_logo{display: block !Important;}
+.C_0x0{display: block !Important;}
+.n_0x0 {
+    margin: 0 -2.25em;
+    text-align:center;
+}
+.n_0x0 a {
+display: block;
+margin: 0;
+padding: .5em 2.25em;
+}
+.x_0x0, .f_0x0{
+    margin: 0 5em;
+    padding: 2em 0;
+    /*max-width: 50em;*/
+}
+.x_0x0:not(:last-child) {
+    border-bottom-color: rgba(142,142,145,0.2);
+}
+
