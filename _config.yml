@@ -4,10 +4,6 @@ url: https://sud0x0.com
 baseurl: "/sud0x0"
 permalink: /:title/
 
-# The release of Jekyll
-version: v1.2.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
@@ -19,8 +15,4 @@ gems:
   - jekyll-feed
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
   - CNAME
