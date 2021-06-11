@@ -1,5 +1,7 @@
+title: SUD0X0
+description: Blog about penetration testing and exploit writting.
 url: https://sud0x0.com
-baseurl: "/SUD0x0"
+baseurl: "/sud0x0"
 permalink: /:title/
 
 # The release of Jekyll
