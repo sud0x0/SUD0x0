@@ -181,3 +181,6 @@ padding: .5em 2.25em;
     border-bottom-color: rgba(142,142,145,0.2);
 }
 
+.selected {
+    color: #237c16 !important;
+}
