@@ -16,19 +16,19 @@ Before the article, I believe that having a correct understanding of the followi
 
 [Cyber security](https://csrc.nist.gov/glossary/term/cyber_security){:target="_blank"} means the ability to protect or defend the use of cyberspace from cyber-attacks.
 
-[Cyberspace](https://csrc.nist.gov/glossary/term/cyberspace) means a global domain within the information environment consisting of the interdependent network of information systems infrastructures including the Internet, telecommunications networks, computer systems, and embedded processors and controllers.
+[Cyberspace](https://csrc.nist.gov/glossary/term/cyberspace){:target="_blank"} means a global domain within the information environment consisting of the interdependent network of information systems infrastructures including the Internet, telecommunications networks, computer systems, and embedded processors and controllers.
 
-An [information environment](https://csrc.nist.gov/glossary/term/information_environment) means the aggregate of individuals, organizations, and systems that collect, process, disseminate, or act on information.
+An [information environment](https://csrc.nist.gov/glossary/term/information_environment){:target="_blank"} means the aggregate of individuals, organizations, and systems that collect, process, disseminate, or act on information.
 
-An [information system](https://csrc.nist.gov/glossary/term/information_system) is a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.
+An [information system](https://csrc.nist.gov/glossary/term/information_system){:target="_blank"} is a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.
 
-[Information resources](https://csrc.nist.gov/glossary/term/information_resources) means information and related resources, such as personnel, equipment, funds, and information technology.
+[Information resources](https://csrc.nist.gov/glossary/term/information_resources){:target="_blank"} means information and related resources, such as personnel, equipment, funds, and information technology.
 
-[Information systems security](https://csrc.nist.gov/glossary/term/information_systems_security) means the protection of information systems against unauthorized access to or modification of information, whether in storage, processing, or transit, and against the denial of service to authorized users, including those measures necessary to detect, document, and counter such threats.
+[Information systems security](https://csrc.nist.gov/glossary/term/information_systems_security){:target="_blank"} means the protection of information systems against unauthorized access to or modification of information, whether in storage, processing, or transit, and against the denial of service to authorized users, including those measures necessary to detect, document, and counter such threats.
 
-[Information security](https://csrc.nist.gov/glossary/term/information_security) means the protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability.
+[Information security](https://csrc.nist.gov/glossary/term/information_security){:target="_blank"} means the protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability.
 
-An [enterprise](https://csrc.nist.gov/glossary/term/enterprise) means an organization with a defined mission/goal and a defined boundary, using information systems to execute that mission, and with responsibility for managing its own risks and performance.
+An [enterprise](https://csrc.nist.gov/glossary/term/enterprise){:target="_blank"} means an organization with a defined mission/goal and a defined boundary, using information systems to execute that mission, and with responsibility for managing its own risks and performance.
 
 
 I personally understand information systems security as a combination of both cyber security and information security. The NIST definition for information systems does not directly mention whether non-technical systems (such as a file cabinet) are considered information systems or not. But some of the definitions that are on the internet describe an information system as a sociotechnical system. Even definitions for information systems do not cover paper-based non-technical methods directly, there is a significant portion of physical security and information classification integrated into information systems security. The image below describes how I see these relationships.
@@ -145,11 +145,11 @@ Even though it is linked to this domain, I prefer to put code security reviews i
 
 The NIST definitions for penetration testing, vulnerability assessments and vulnerability scanning are as follows. 
 
-[Penetration testing](https://csrc.nist.gov/glossary/term/penetration_testing) is a method of testing where testers target individual binary components or the application as a whole to determine whether intra or intercomponent vulnerabilities can be exploited to compromise the application, its data, or its environment resources.
+[Penetration testing](https://csrc.nist.gov/glossary/term/penetration_testing){:target="_blank"} is a method of testing where testers target individual binary components or the application as a whole to determine whether intra or intercomponent vulnerabilities can be exploited to compromise the application, its data, or its environment resources.
 
-[Vulnerability assessment](https://csrc.nist.gov/glossary/term/vulnerability_assessment) is a systematic examination of an information system or product to determine the adequacy of security measures, identify security deficiencies, provide data from which to predict the effectiveness of proposed security measures, and confirm the adequacy of such measures after implementation.
+[Vulnerability assessment](https://csrc.nist.gov/glossary/term/vulnerability_assessment){:target="_blank"} is a systematic examination of an information system or product to determine the adequacy of security measures, identify security deficiencies, provide data from which to predict the effectiveness of proposed security measures, and confirm the adequacy of such measures after implementation.
 
-[Vulnerability scanning](https://csrc.nist.gov/glossary/term/vulnerability_scanning) is a technique used to identify hosts/host attributes and associated vulnerabilities.
+[Vulnerability scanning](https://csrc.nist.gov/glossary/term/vulnerability_scanning){:target="_blank"} is a technique used to identify hosts/host attributes and associated vulnerabilities.
 
 
 ## Domain 5: Information Systems Risk Management
@@ -192,13 +192,13 @@ This domain may not exist in some enterprises, as some enterprises do not have t
 
 ## Domain 8: Information Systems Security Governance 
 
-Governance is a system that provides a framework for managing organisations. It identifies who can make decisions, who has the authority to act on behalf of the organisation and who is accountable for how an organisation and its people behave and perform. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance)]
+Governance is a system that provides a framework for managing organisations. It identifies who can make decisions, who has the authority to act on behalf of the organisation and who is accountable for how an organisation and its people behave and perform. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance){:target="_blank"}]
 
-Governance enables the management team and the board to run organisations legally, ethically, sustainably, and successfully, for the benefit of stakeholders, including shareholders, staff, clients, and customers, and for the good of wider society. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance)]
+Governance enables the management team and the board to run organisations legally, ethically, sustainably, and successfully, for the benefit of stakeholders, including shareholders, staff, clients, and customers, and for the good of wider society. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance){:target="_blank"}]
 
 Likewise, the organisational governance, information systems security governance is about the information systems security team and its contribution towards the enterprise. In my opinion, information systems security governance is primarily involved in the development and maintenance of the information systems security architecture. The information security architecture then becomes a heavy influence on day-to-day decision making.
 
-Organisations that have good governance use clear decision-making processes, behave openly by reporting on their activities, actively engage with their stakeholders, effectively manage the risks they face, and take responsibility for controlling and protecting their assets, including their reputation. Each of these areas of governance activity contributes to an organisation’s success. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance)]
+Organisations that have good governance use clear decision-making processes, behave openly by reporting on their activities, actively engage with their stakeholders, effectively manage the risks they face, and take responsibility for controlling and protecting their assets, including their reputation. Each of these areas of governance activity contributes to an organisation’s success. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance){:target="_blank"}]
 
 
 
