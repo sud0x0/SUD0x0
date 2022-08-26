@@ -66,6 +66,7 @@ Some of the areas, such as "Information Systems Risk Management" and "Governance
  
 I do not intend to write a lot of information about these subdomains in this article. But I would like to introduce each domain.
 
+<br>
 
 ## Domain 1: Infrastructure and Application security
 
@@ -99,6 +100,7 @@ Some of the tools, controls, and processes are as follows:
 Planning part of this domain is connected to domain 9. However, some of the important strategies to follow when working on this domain are Defense in Depth and Zero Trust. Identity and access management is not limited to this domain, but most of the implementation and maintenance parts happen here. This domain also focuses on some parts of the physical security of network tools and components. However, physical security is not limited to information systems security architecture.
 
 
+<br>
 
 ## Domain 2: Asset Security Management
 
@@ -117,6 +119,7 @@ When it comes to securing assets, some of the focus areas are,
 - lifecycle of assets,
 - assigning assets to relevant management layers.
 
+<br>
 
 ## Domain 3: Security Operations
 
@@ -136,6 +139,7 @@ Disaster recovery and business continuity are not limited only to this domain. T
 
 The Security Operations Centre (SOC) concept is focused on this domain. Other domains can also be parts of the SOC team depending on the enterprise structure and needs. The tasks of this domain are more aligned towards the blue team.
 
+<br>
 
 ## Domain 4: Security Assessments
 
@@ -161,6 +165,7 @@ The NIST definitions for penetration testing, vulnerability assessments and vuln
 
 [Vulnerability scanning](https://csrc.nist.gov/glossary/term/vulnerability_scanning){:target="_blank"} is a technique used to identify hosts/host attributes and associated vulnerabilities.
 
+<br>
 
 ## Domain 5: Information Systems Risk Management
 
@@ -177,6 +182,7 @@ This domain focuses on managing the identified risk. Some of the tasks focused o
 Disaster recovery and business continuity are not limited only to this domain. This domain helps to plan methods when necessary.
 Supply chain risk management is somewhat of a big area due to its scope. Thus, it has connections to multiple domains, including domain 1.
 
+<br>
 
 ## Domain 6: Security Training
 
@@ -186,6 +192,7 @@ The tasks of this domain include,
 - development of study materials for employees,
 - planning mandatory cyber security exercises for employees.
 
+<br>
 
 ## Domain 7: Secure Development
 
@@ -199,6 +206,7 @@ One of the most important methodologies to follow in this domain is DevSecOps. D
 
 This domain may not exist in some enterprises, as some enterprises do not have their own development team. However, other enterprises follow a hybrid method (internal team and use of external vendors) when it comes to development.
 
+<br>
 
 ## Domain 8: Information Systems Security Governance 
 
@@ -211,6 +219,7 @@ Likewise, the organisational governance, information systems security governance
 Organisations that have good governance use clear decision-making processes, behave openly by reporting on their activities, actively engage with their stakeholders, effectively manage the risks they face, and take responsibility for controlling and protecting their assets, including their reputation. Each of these areas of governance activity contributes to an organisation’s success. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance){:target="_blank"}]
 
 
+<br>
 
 ## Domain 9: Enterprise Information Systems Security Architecture
 
@@ -235,6 +244,7 @@ Some organisations do not have a properly defined information systems security a
 
 If this is not what an enterprise needs, it is always better to implement an acceptable information systems security architecture properly aligned to the enterprise architecture.
 
+<br>
 
 ## Domain 10: Research Activities
 
@@ -247,6 +257,7 @@ Research is important when it comes to changing and upgrading. Within an enterpr
 - Use of new tools.
 - Building new tools.
 
+<br>
 
 ## Is that all?
 
