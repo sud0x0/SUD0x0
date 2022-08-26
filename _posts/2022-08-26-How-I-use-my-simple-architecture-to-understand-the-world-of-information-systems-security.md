@@ -2,10 +2,15 @@
 layout: post
 date: 2022-08-26
 title: How I use my simple architecture to understand the world of information systems security?
-image: /images/article-1.png
+image: /images/article-1.jpeg]
 excerpt: "Add here"
 Keywords: Information Systems Security, Cyber Security
 ---
+
+![_config.yml]({{ site.baseurl }}/images/article-1.jpeg)
+<p style="font-size:8px"><a href="https://www.pexels.com/photo/white-and-brown-concrete-building-1119972/" target="_blankl" Photo by Johannes Plenio</a>.</font>
+
+</br>
 
 Before the article, I believe that having a correct understanding of the following terms is important. Therefore, I thought to place them at the top of the article. The meanings were taken from NIST glossary. 
 
