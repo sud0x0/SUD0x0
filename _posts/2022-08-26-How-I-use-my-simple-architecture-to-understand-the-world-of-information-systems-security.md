@@ -72,6 +72,12 @@ This domain covers all cloud-based, on-premises, and hybrid (combination of both
 
 Some of the tools, controls, and processes are as follows:
 
+<style>
+  td, th {
+    border: 2px!important;
+  }
+</style>
+
 | **Tools/Controls**                 | **Processes**                                                  |
 | ---------------------------------- | -------------------------------------------------------------- |
 | Firewall                           | Feed the logs to SIEM tools                                    |
