@@ -193,8 +193,9 @@ article.x_0x0 {
     border-bottom: 1px solid green;
 }
 
-@media (max-width: 1000px) {
 img {
-    width: 100%;
-    }
+     max-width: 100%;
 }
+
+
+
