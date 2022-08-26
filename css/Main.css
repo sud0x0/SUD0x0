@@ -188,3 +188,13 @@ padding: .5em 2.25em;
 .selected {
     color: #1c780f !important;
 }
+
+article.x_0x0 {
+    border-bottom: 1px solid green;
+}
+
+@media (max-width: 1000px) {
+img {
+    width: 100%;
+    }
+}
