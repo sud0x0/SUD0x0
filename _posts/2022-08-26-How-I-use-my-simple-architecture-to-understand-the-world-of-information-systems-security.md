@@ -10,12 +10,11 @@ Keywords: Information Systems Security, Cyber Security
 ![_config.yml]({{ site.baseurl }}/images/article-1.jpeg)
 <p style="font-size:12px"><a href="https://www.pexels.com/photo/white-and-brown-concrete-building-1119972/" target="_blankl">Photo by Johannes Plenio.</a></p>
 
-</br>
 
 Before the article, I believe that having a correct understanding of the following terms is important. Therefore, I thought to place them at the top of the article. The meanings were taken from NIST glossary. 
 
 
-[Cyber security](https://csrc.nist.gov/glossary/term/cyber_security) means the ability to protect or defend the use of cyberspace from cyber-attacks.
+[Cyber security](https://csrc.nist.gov/glossary/term/cyber_security){:target="_blank"} means the ability to protect or defend the use of cyberspace from cyber-attacks.
 
 [Cyberspace](https://csrc.nist.gov/glossary/term/cyberspace) means a global domain within the information environment consisting of the interdependent network of information systems infrastructures including the Internet, telecommunications networks, computer systems, and embedded processors and controllers.
 
