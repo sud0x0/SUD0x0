@@ -73,8 +73,11 @@ This domain covers all cloud-based, on-premises, and hybrid (combination of both
 Some of the tools, controls, and processes are as follows:
 
 <style>
-  td, th {
-    border: 2px!important;
+  table {
+    border-collapse: collapse;
+  }
+  td, th, table {
+    border: 2px solid black;
   }
 </style>
 
