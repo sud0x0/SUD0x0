@@ -7,7 +7,7 @@ excerpt: "Add here"
 Keywords: Information Systems Security, Cyber Security
 ---
 
-![_config.yml]({{ site.baseurl }}/images/article-1.jpeg)
+<img src="https://sud0x0.com/images/article-1.jpeg"  width="100%">
 <p style="font-size:12px"><a href="https://www.pexels.com/photo/white-and-brown-concrete-building-1119972/" target="_blankl">Photo by Johannes Plenio.</a></p>
 
 <br>
