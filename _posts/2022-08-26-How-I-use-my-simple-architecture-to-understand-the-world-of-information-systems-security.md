@@ -5,7 +5,6 @@ title: How I use my simple architecture to understand the world of information s
 
 Before the article, I believe that having a correct understanding of the following terms is important. Therefore, I thought to place them at the top of the article. The meanings were taken from NIST glossary. 
 
-<span color="purple">
 
 [Cyber security](https://csrc.nist.gov/glossary/term/cyber_security) means the ability to protect or defend the use of cyberspace from cyber-attacks.
 
@@ -23,7 +22,6 @@ An [information system](https://csrc.nist.gov/glossary/term/information_system) 
 
 An [enterprise](https://csrc.nist.gov/glossary/term/enterprise) means an organization with a defined mission/goal and a defined boundary, using information systems to execute that mission, and with responsibility for managing its own risks and performance.
 
-</span>
 
 I personally understand information systems security as a combination of both cyber security and information security. The NIST definition for information systems does not directly mention whether non-technical systems (such as a file cabinet) are considered information systems or not. But some of the definitions that are on the internet describe an information system as a sociotechnical system. Even definitions for information systems do not cover paper-based non-technical methods directly, there is a significant portion of physical security and information classification integrated into information systems security. The image below describes how I see these relationships.
 
