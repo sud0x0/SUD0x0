@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How I use my simple architecture to understand the world of information systems security?
-ecle, I believe that having a correct understanding of the following terms is important. Therefore, I thought to place them at the top of the article. The meanings were taken from NIST glossary. 
+---
+
+Before the article, I believe that having a correct understanding of the following terms is important. Therefore, I thought to place them at the top of the article. The meanings were taken from NIST glossary. 
 
 [Cyber security](https://csrc.nist.gov/glossary/term/cyber_security) means the ability to protect or defend the use of cyberspace from cyber-attacks.
 
