@@ -8,7 +8,7 @@ Keywords: Information Systems Security, Cyber Security
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/article-1.jpeg)
-<p style="font-size:8px"><a href="https://www.pexels.com/photo/white-and-brown-concrete-building-1119972/" target="_blankl" Photo by Johannes Plenio</a>.</p>
+<p style="font-size:12px"><a href="https://www.pexels.com/photo/white-and-brown-concrete-building-1119972/" target="_blankl">Photo by Johannes Plenio.</a></p>
 
 </br>
 
