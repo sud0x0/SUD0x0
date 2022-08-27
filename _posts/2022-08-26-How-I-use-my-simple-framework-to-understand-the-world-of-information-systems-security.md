@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2022-08-26
-title: How I use my simple architecture to understand the world of information systems security?
+title: How I use my simple framework to understand the world of information systems security?
 image: /images/article-1.jpeg]
 excerpt: "Add here"
-Keywords: Information Systems Security, Cyber Security
+Keywords: Information Systems Security, Cyber Security, Information Systems Security Domains
 ---
 
 <img class="blog-main-image" src="https://sud0x0.com/images/article-1.jpeg">
@@ -55,9 +55,9 @@ Some examples are,
 - if constant monitoring and log management of traffic does not happen within an enterprise, the threat actor can conduct their malicious activities unnoticed. The enterprise will not be able to at least limit the destruction that could be done by them. Therefore, enterprises apply methods like SIEM tools to constantly monitor the computer network.
 
 
-Even though this sounds simple, information systems security is somewhat of a massive field with multiple subdomains. I believe that having a proper understanding of these sub-domains provides us with a greater benefit when it comes to working in information systems security.
+Even though this sounds simple, information systems security is somewhat of a massive field with multiple subdomains. I believe that having a proper understanding of these subdomains provides us with a greater benefit when it comes to working in information systems security.
 
-I prefer minimalistic and non-complicated methods when it comes to learning. I like to categorise information and come up with patterns that would help me to understand the concepts easily. To understand the information systems security architecture of an enterprise, I thought to identify the main domains first, and then to identify their tasks. To do that, I used my own experience, peer articles, books, CISSP, CRISC, and CISA course syllabuses.
+I prefer minimalistic and non-complicated methods when it comes to learning. I like to categorise information and come up with patterns that would help me to understand the concepts easily. To understand the information systems security architecture of an enterprise, I thought to identify the main subdomains first, and then to identify their tasks. To do that, I used my own experience, peer articles, books, CISSP, CRISC, and CISA course syllabuses.
 
 ![_config.yml]({{ site.baseurl }}/images/information-systems-security-domains.png)
 
@@ -214,7 +214,7 @@ Governance is a system that provides a framework for managing organisations. It 
 
 Governance enables the management team and the board to run organisations legally, ethically, sustainably, and successfully, for the benefit of stakeholders, including shareholders, staff, clients, and customers, and for the good of wider society. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance){:target="_blank"}]
 
-Likewise, the organisational governance, information systems security governance is about the information systems security team and its contribution towards the enterprise. In my opinion, information systems security governance is primarily involved in the development and maintenance of the information systems security architecture. The information security architecture then becomes a heavy influence on day-to-day decision making.
+Likewise, the organisational governance, information systems security governance is about the information systems security team and its contribution towards the enterprise. In my opinion, information systems security governance is primarily involved in the development and maintenance of the information systems security architecture. The information systems security architecture then becomes a heavy influence on day-to-day decision making.
 
 Organisations that have good governance use clear decision-making processes, behave openly by reporting on their activities, actively engage with their stakeholders, effectively manage the risks they face, and take responsibility for controlling and protecting their assets, including their reputation. Each of these areas of governance activity contributes to an organisation’s success. [[Charted Governance Institute UK & Ireland](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance){:target="_blank"}]
 
@@ -225,7 +225,7 @@ Organisations that have good governance use clear decision-making processes, beh
 
 In my opinion, this is the key to better enterprise information systems security. A well-defined architecture not only protects the enterprise information systems but also helps with better governance.
 
-The information security architecture defines the following main areas:
+The information systems security architecture defines the following main areas:
 - Information systems security standards, mechanisms, processes, and frameworks from configurations to decision-making.
 - The relationship is in-between the main enterprise architecture and the information systems security architecture.
 - Information systems security-related policies.
@@ -262,3 +262,5 @@ Research is important when it comes to changing and upgrading. Within an enterpr
 ## Is that all?
 
 Well, based on my opinion yes when it comes to domains. But there are deeper parts of Information Systems Security that I did not mention as separate domains. One example is Identity and Access Management (IAM). This requires a great amount of planning and always faces changes according to business needs. But I feel that this is connected to multiple domains and not a single domain. For example, the asset management domain classifies the systems, the infrastructure and application security domain implements the chosen IAM systems, and the security operations domain monitors the IAM systems. The rest of the parts are also connected with the other roles in the enterprise.
+
+Finally, this article is about how I see information systems security and its subdomain. But there can be multiple other ways of dividing information systems security into subdomains that different people use to understand information systems security.
