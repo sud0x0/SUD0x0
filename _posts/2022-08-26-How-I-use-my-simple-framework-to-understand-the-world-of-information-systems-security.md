@@ -143,7 +143,7 @@ The Security Operations Centre (SOC) concept is focused on this domain. Other do
 
 ## Domain 4: Security Assessments
 
-The monitoring part in domain 3 provides the enterprise with information about current activities. One example of an activity is a threat actor using a known exploit to get into an enterprise infrastructure component. What if the enterprise can identify the vulnerabilities that the infrastructure components have before the threat actor can? That’s the task of domain 4. The red team concept is focused on this domain.
+The monitoring part in domain 3 provides the enterprise with information about current activities. One example of an activity is a threat actor using a known exploit to get into an enterprise infrastructure component. What if the enterprise can identify the vulnerabilities that the infrastructure components have before the threat actor? That’s the task of domain 4. The red team concept is focused on this domain.
 
 I prefer to divide this domain into 2 main parts.
 - Physical Security Assessments
