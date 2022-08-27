@@ -3,7 +3,7 @@ layout: post
 date: 2022-08-26
 title: How I use my simple framework to understand the world of information systems security?
 image: /images/article-1.jpeg]
-excerpt: "Add here"
+excerpt: "This article is about the way I structure different tasks based on their relationships with other tasks in information systems security for a better understanding."
 Keywords: Information Systems Security, Cyber Security, Information Systems Security Domains
 ---
 
@@ -32,9 +32,9 @@ An [information system](https://csrc.nist.gov/glossary/term/information_system){
 An [enterprise](https://csrc.nist.gov/glossary/term/enterprise){:target="_blank"} means an organization with a defined mission/goal and a defined boundary, using information systems to execute that mission, and with responsibility for managing its own risks and performance.
 
 
-I personally understand information systems security as a combination of both cyber security and information security. The NIST definition for information systems does not directly mention whether non-technical systems (such as a file cabinet) are considered information systems or not. But some of the definitions that are on the internet describe an information system as a sociotechnical system. Even definitions for information systems do not cover paper-based non-technical methods directly, there is a significant portion of physical security and information classification integrated into information systems security. The image below describes how I see these relationships.
+I personally understand information systems security as a combination of both cyber security and information security. To my understanding, the NIST definition for information systems identifies both technical and non-technical systems (such as a file cabinet) as information systems. But some of the definitions that are on the internet describe an information system as a system based on computer technology. Even though there are contradictions in between definitions, there is a significant amount of physical security and information classification integrated into information systems security. The image below describes how I see these relationships.
 
-A side note: CISO is one of the highest roles assigned to the enterprise information security architecture within an organisation.  The CISO handbook, written by cio.gov, mentions that security of both information and information systems is a responsibility of the CISO. It also mentions that a CISO should use standards such as FIPS 199. FIPS 199 covers both information (electronic or non-electronic) and information systems. Consequently, I believe that understanding information systems security as a combination of both information security and cyber security is the correct method. [[CISO Guidebook](https://www.cio.gov/resources/ciso-handbook), [FIPS 199](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.199.pdf)]
+A side note: CISO is one of the highest roles assigned to the enterprise information security architecture within an organisation.  The CISO handbook, written by cio.gov, mentions that security of both information and information systems is a responsibility of the CISO. It also mentions that a CISO should use standards such as FIPS 199. FIPS 199 covers both information (electronic and non-electronic) and information systems. Consequently, I believe that understanding information systems security as a combination of both information security and cyber security is the correct method. [[CISO Guidebook](https://www.cio.gov/resources/ciso-handbook), [FIPS 199](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.199.pdf)]
 
 ![_config.yml]({{ site.baseurl }}/images/cyber-security-and-information-security.png)
 
@@ -64,7 +64,7 @@ I prefer minimalistic and non-complicated methods when it comes to learning. I l
 All these subdomains are interconnected. That means one domain's output can be an input for any other domain.
 Some of the areas, such as "Information Systems Risk Management" and "Governance", go beyond the information systems security architecture. Thus, they are also connected to the enterprise architecture. One example is that a workplace hazard that could lead to an injury to an employee is not connected to information systems risk management directly. But it is a risk and must be managed.
  
-I do not intend to write a lot of information about these subdomains in this article. But I would like to introduce each domain.
+I do not intend to write a lot of information about these subdomains in this article. But I would like to introduce each subdomain.
 
 <br>
 
@@ -186,7 +186,7 @@ Supply chain risk management is somewhat of a big area due to its scope. Thus, i
 
 ## Domain 6: Security Training
 
-People are the weakest link in security. No matter how many controls are in place, a simple mistake by an employee could lead to massive damage. The main reason for this is that every single person in the enterprise is not security minded. Thus, providing them with the necessary knowledge about cyber security and assessing their knowledge is as important as the implementation of firewalls. 
+People are the weakest link in security. No matter how many controls are in place, a simple mistake by an employee could lead to massive damage. The main reason for this is that every single person in the enterprise is not security minded. Thus, providing them with the necessary knowledge about information systems security and assessing their knowledge is as important as the implementation of firewalls. 
 
 The tasks of this domain include,
 - development of study materials for employees,
@@ -200,7 +200,7 @@ Assessments and monitoring activities provide security to the enterprise, but wh
 
 The main tasks of this domain include,
 - implementation of secure development practises and policies
-- source code security scanning (SAST, DAST) 
+- source code security scanning (SAST, manual source code reviews) 
 
 One of the most important methodologies to follow in this domain is DevSecOps. DevSecOps means adding security to the DevOps development methodology by introducing code scanning and secure practices. 
 
@@ -227,14 +227,14 @@ In my opinion, this is the key to better enterprise information systems security
 
 The information systems security architecture defines the following main areas:
 - Information systems security standards, mechanisms, processes, and frameworks from configurations to decision-making.
-- The relationship is in-between the main enterprise architecture and the information systems security architecture.
+- The relationship in-between the main enterprise architecture and the information systems security architecture.
 - Information systems security-related policies.
-- Information system security services and goals.
-- Employees' roles and responsibilities in information system security.
+- Information systems security services and goals.
+- Employees' roles and responsibilities in information systems security.
 
 There are multiple architecture models covering different parts of information systems security and enterprise architecture that can work together. One example is as follows:
 
-TOGAF is the enterprise level architecture. SABSA covers the information systems security architecture but does not provide any specific control and relies on others. COBIT is also an enterprise level architecture. 
+TOGAF is an enterprise level architecture. SABSA covers the information systems security architecture but does not provide any specific control and relies on others. COBIT is also an enterprise level architecture. 
 
 By using SABSA, COBIT and TOGAF together, a security architecture can be defined that is aligned with business needs and addresses all the stakeholder requirements. After the architecture and the goals are defined, the TOGAF framework can be used to create the projects and steps and monitor the implementation of the security architecture to get it to where it should be. [[ISACA](https://www.isaca.org/resources/isaca-journal/issues/2017/volume-4/enterprise-security-architecturea-top-down-approach)]
 
@@ -263,4 +263,4 @@ Research is important when it comes to changing and upgrading. Within an enterpr
 
 Well, based on my opinion yes when it comes to domains. But there are deeper parts of Information Systems Security that I did not mention as separate domains. One example is Identity and Access Management (IAM). This requires a great amount of planning and always faces changes according to business needs. But I feel that this is connected to multiple domains and not a single domain. For example, the asset management domain classifies the systems, the infrastructure and application security domain implements the chosen IAM systems, and the security operations domain monitors the IAM systems. The rest of the parts are also connected with the other roles in the enterprise.
 
-Finally, this article is about how I see information systems security and its subdomain. But there can be multiple other ways of dividing information systems security into subdomains that different people use to understand information systems security.
+Finally, this article is about how I see information systems security and its subdomains. But there can be multiple other ways of dividing information systems security into subdomains that different people use to understand information systems security.
