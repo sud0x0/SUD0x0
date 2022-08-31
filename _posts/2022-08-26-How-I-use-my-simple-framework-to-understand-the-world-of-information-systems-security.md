@@ -12,7 +12,7 @@ Keywords: Information Systems Security, Cyber Security, Information Systems Secu
 
 <br>
 
-Before the article, I believe that having a correct understanding of the following terms is important. Therefore, I thought to place them at the top of the article. The meanings were taken from NIST glossary. 
+Before the article, I believe that having a correct understanding of the following terms is important. Therefore, I thought to place them at the top of the article. The meanings were taken from the NIST glossary. 
 
 
 [Cyber security](https://csrc.nist.gov/glossary/term/cyber_security){:target="_blank"} means the ability to protect or defend the use of cyberspace from cyber-attacks.
