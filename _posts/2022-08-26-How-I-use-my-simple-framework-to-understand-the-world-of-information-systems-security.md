@@ -170,7 +170,8 @@ The NIST definitions for penetration testing, vulnerability assessments and vuln
 ## Domain 5: Information Systems Risk Management
 
 This domain focuses on managing the identified risk. Some of the tasks focused on this domain are,
-- risk identification (this is more about converting the identified various types of risks to business risks by looking at the damage that could happen to the enterprise),
+- risk identification,
+- risk assessment,
 - risk treatment plans,
 - management of the risk ownership,
 - management of a risk register,
