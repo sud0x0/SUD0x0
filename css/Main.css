@@ -197,5 +197,14 @@ img {
      max-width: 100%;
 }
 
+p.quote_about {
+    padding-bottom: 15px;
+}
+
+a.quote_text_a {
+    font-size: 14px;
+}
+
+
 
 
