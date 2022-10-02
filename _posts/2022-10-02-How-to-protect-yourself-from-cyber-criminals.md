@@ -13,10 +13,12 @@ Keywords: cyber criminals, cyber security, cybercrime, cyber safe
 <br>
 
 <font color="red">If you are reading this article to figure out the immediate responses that you need to take to minimise the potential damage of the Optus data breach, I recommend you stop reading this article and follow the articles below.</font>
--  <font color="red">[OAIC](https://www.oaic.gov.au/updates/news-and-media/advice-on-optus-data-breach)</font>
--  <font color="red">[ACSC](https://www.cyber.gov.au/acsc/view-all-content/alerts/optus-notifies-customers-cyberattack-compromising-customer-information)</font>
+<font color="red">[OAIC](https://www.oaic.gov.au/updates/news-and-media/advice-on-optus-data-breach)</font>
+<font color="red">[ACSC](https://www.cyber.gov.au/acsc/view-all-content/alerts/optus-notifies-customers-cyberattack-compromising-customer-information)</font>
 
 ***
+
+<br>
 
 This is an extensive list of tasks that I believe are necessary to perform to secure ourselves from cyber criminals. This is based on my view as a penetration tester. For example, what I look at when I have to conduct a social engineering attack, what I would focus on to attack a particular target, etc. This article has three main parts.
 -  How to prepare your tools and environments?
