@@ -38,7 +38,7 @@ Although I tried to cover all the important areas, please be aware that I may ha
 **Devices**
 
 - Do not use jail-broken or rooted devices. 
-There are two main issues associated with this. The OS will not receive updates unless you do it by yourself. The software you use may contain malware. Don’t do this unless you are 100% sure about every single bit of code that you must use (to jailbreak and the software that you install) and you are capable of updating it regularly when important updates are released. It is always better to have separate devices for testing purposes.
+There are two main issues associated with this. The OS will not receive updates unless you do it by yourself. The software you use may contain malware. Don’t do this unless you are 100% sure about every single bit of code that you must use (to jailbreak and the software that you install) and you are capable of updating it regularly when important updates are released. It is always better to have separate devices for testing and personal use rather than combine both into one.
 
 - Avoid the use of used devices. 
 Someone can install a rootkit (malware type) and sell the device. Even if you reinstall the OS, the rootkit may stay as it is. In my opinion, it is always better to buy new devices when it comes to personal use, unless you are knowledgeable enough to refurbish the device properly.
