@@ -8,7 +8,7 @@ Keywords: cyber criminals, cyber security, cybercrime, cyber safe
 ---
 
 <img class="blog-main-image" src="https://sud0x0.com/images/article-2.jpeg">
-<p style="font-size:12px"><a href="https://www.pexels.com/photo/man-wearing-karategi-standing-on-grass-5968798/" target="_blankl">Photo by Parcerografo.</a></p>
+<p style="font-size:12px"><a href="https://www.pexels.com/photo/man-doing-boxing-163403/" target="_blankl">Photo by Pixabay.</a></p>
 
 <br>
 
