@@ -313,6 +313,8 @@ If you do not use a service anymore, delete the account and the content (not dea
 - Store your important data in encrypted containers. 
 You can use software such as 7Zip or VeraCrypt to secure your data inside encrypted containers. In this way, the confidentiality and integrity of the data will be safe if you face a cyber-attack.
 
+- Keep backups of your data. If you get into a cyber attack, such as a ransomware attack, you may not lose the data. One of the best ways to do this is cloud backup (but encrypted backups for sensitive information).
+
 - When you are using online storage solutions, be careful and do not store sensitive information without encrypting it. 
 Use encrypted containers as the cloud is someone else’s computer.
 
