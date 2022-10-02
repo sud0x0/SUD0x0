@@ -8,13 +8,13 @@ Keywords: cyber criminals, cyber security, cybercrime, cyber safe
 ---
 
 <img class="blog-main-image" src="https://sud0x0.com/images/article-2.jpeg">
-<p style="font-size:12px"><a href="https://www.pexels.com/photo/man-doing-boxing-163403/" target="_blankl">Photo by Pixabay.</a></p>
+<p style="font-size:12px"><a href="https://www.pexels.com/photo/man-doing-boxing-163403/" target="_blank">Photo by Pixabay.</a></p>
 <br>
 
 ***
 
 <font color="red">If you are reading this article to figure out the immediate responses that you need to take to minimise the potential damage of the Optus data breach, I recommend you stop reading this article and follow the articles below.</font> 
-<a href="https://www.oaic.gov.au/updates/news-and-media/advice-on-optus-data-breach" target="_blankl">OAIC</a> |  <a href="https://www.cyber.gov.au/acsc/view-all-content/alerts/optus-notifies-customers-cyberattack-compromising-customer-information" target="_blankl">ACSC</a>
+<a href="https://www.oaic.gov.au/updates/news-and-media/advice-on-optus-data-breach" target="_blank">OAIC</a> | <a href="https://www.cyber.gov.au/acsc/view-all-content/alerts/optus-notifies-customers-cyberattack-compromising-customer-information" target="_blankl">ACSC</a>
 
 ***
 
@@ -144,7 +144,7 @@ Where do you store your devices? Do you store paper-based documents such as pass
 This is still a questionable approach. However, RFID skimming is a practical attack that can be done.
 
 - Choose proper locks. 
-Some rugged looking locks are terrible at protecting you. Check this <a href="https://www.youtube.com/c/lockpickinglawyer/about/" target="_blankl">YouTube channel</a> to see how insecure some locks are.
+Some rugged looking locks are terrible at protecting you. Check this <a href="https://www.youtube.com/c/lockpickinglawyer/about/" target="_blank">YouTube channel</a> to see how insecure some locks are.
 
 <br>
 
