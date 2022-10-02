@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-10-02
-title: How to protect yourself from cyber criminals
+title: How to protect yourself from cyber criminals?
 image: /images/article-2.jpeg]
 excerpt: "I thought it would be a good idea to write an article about the methods that an individual should take to avoid cyber attacks. This is an extensive list of tasks, and this list is based on my view as a penetration tester. For example, what I look at when I have to conduct a social engineering attack, what I would focus on to attack a particular target, etc."
 Keywords: cyber criminals, cyber security, cybercrime, cyber safe
