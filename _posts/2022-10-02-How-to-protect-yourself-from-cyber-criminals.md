@@ -254,7 +254,7 @@ Constant monitoring is important to identify malicious activities. You may be ab
 Temporary emails are the best way to avoid unwanted emails and companies learning about you. But make sure never to use temp emails to register for a service that you will use more than once or services that will hold sensitive information, including your name. An example of a temporary email is https://temp-mail.org/.
 
 - Use an incognito browser. 
-Incognito mode can protect you from some attacks, such as CSRF. Use it to check slightly suspicious links, but I would recommend the use of a virtual machine to check suspicious links.
+Incognito mode can protect you from some attacks. Use it to check slightly suspicious links, but I would recommend the use of a virtual machine to check suspicious links.
 
 - Logout when you finish your tasks. 
 If your computer is compromised, this will prevent unauthorised access to your accounts.
