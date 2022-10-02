@@ -365,4 +365,4 @@ There will be people (cyber security related or not) to help you if you become a
 
 Finally, it is always important to stay up to date. One of the best ways to stay up to date is by investing your time in learning the subject.
 
-<font color="purple">*Please note that, I may update this article in the future. You can find the versioning details (including changes) of this blog post on the GitHub page.*</font>
+<font color="purple">Please note that, I may update this article in the future. You can find the versioning details (including changes) of this blog post on the GitHub page.</font>
