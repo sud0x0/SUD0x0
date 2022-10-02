@@ -322,6 +322,8 @@ Grammar checkers store the information that you provide for further analysis, su
 - When you are using email, make sure that the email you receive and send is encrypted. 
 Some services do not use encrypted emails. This could breach the confidentiality of the sensitive data you receive or provide if a third party is sniffing the networks that they or you use.
 
+- Be careful about shoulder surfers. Be vigilant about who can view your screen and keyboard.
+
 - Do not display your credit cards in your wallet. 
 In this way, people can identify your card number quickly. Some services only ask for the card number and expiration date. They do not ask for a CVV number or try to verify the actions by sending a message.
 
