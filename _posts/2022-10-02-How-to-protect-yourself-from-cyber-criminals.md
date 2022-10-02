@@ -14,7 +14,9 @@ Keywords: cyber criminals, cyber security, cybercrime, cyber safe
 
 ***
 
-<font color="red">If you are reading this article to figure out the immediate responses that you need to take to minimise the potential damage of the Optus data breach, I recommend you stop reading this article and follow the articles below.</font> [OAIC](https://www.oaic.gov.au/updates/news-and-media/advice-on-optus-data-breach)[ACSC](https://www.cyber.gov.au/acsc/view-all-content/alerts/optus-notifies-customers-cyberattack-compromising-customer-information)
+<font color="red">If you are reading this article to figure out the immediate responses that you need to take to minimise the potential damage of the Optus data breach, I recommend you stop reading this article and follow the articles below.</font> 
+[OAIC](https://www.oaic.gov.au/updates/news-and-media/advice-on-optus-data-breach) &nbsp
+[ACSC](https://www.cyber.gov.au/acsc/view-all-content/alerts/optus-notifies-customers-cyberattack-compromising-customer-information)
 
 ***
 
