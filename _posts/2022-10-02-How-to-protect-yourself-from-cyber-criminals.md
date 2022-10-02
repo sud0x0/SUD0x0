@@ -29,6 +29,8 @@ Even though I mentioned a couple of brands, services, and vendors in this articl
 
 Although I tried to cover all the important areas, please be aware that I may have missed some.
 
+<br>
+
 ## How to prepare your tools and environments?
 
 **Devices**
@@ -142,7 +144,7 @@ This is still a questionable approach. However, RFID skimming is a practical att
 - Choose proper locks. 
 Some rugged looking locks are terrible at protecting you. Check this [YouTube channel](https://www.youtube.com/c/lockpickinglawyer/about) to see how insecure some locks are.
 
-</br>
+<br>
 
 ## Day-to-Day activities
 
@@ -336,7 +338,7 @@ Do not leave documents such as passports and other confidential documents in ins
 Use techniques such as shredding.
 
 
-</br>
+<br>
 
 ## What to do if you are a victim of a cyber-attack?
 
