@@ -361,7 +361,7 @@ Some scenarios could be embarrassing events for the victim. But make sure to get
 - Trust the authority that is responsible for taking actions, not your friendly advisers. 
 There will be people (cyber security related or not) to help you if you become a victim of a cyber-attack. But how do you verify that they are recommending the right actions? Always align your actions according to the guidelines provided by the relevant authorities, such as police, banks, cyber.gov.au, etc.
 
-</br>
+<br>
 
 Finally, it is always important to stay up to date. One of the best ways to stay up to date is by investing your time in learning the subject.
 
