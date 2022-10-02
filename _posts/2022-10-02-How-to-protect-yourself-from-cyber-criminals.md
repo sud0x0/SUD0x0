@@ -84,7 +84,7 @@ A properly configured firewall can protect your device from many types of attack
 If the device is not encrypted, malicious attackers will be able to access your data through physical attacks. Some examples are stolen items and lost USB drives.
 
 - Use a VPN. 
-I strongly believe that choosing a VPN provider that respects privacy is extremely important to enhance the security and privacy of your daily work. For example, when you connect to a network, how do you know that the network owner does not keep proxy logs and does not do security-related tasks such as deep packet inspection (DPI)? *However, VPN does not provide complete security and privacy over DPI.*
+I strongly believe that choosing a VPN provider that respects privacy is extremely important to enhance the security and privacy of your daily work. For example, when you connect to a network, how do you know that the network owner does not keep proxy logs and does not do security-related tasks such as deep packet inspection (DPI)? However, VPN does not provide complete security and privacy over DPI.
 
 - Use a virtual machine. 
 A virtual machine is a useful tool when it comes to checking suspicious websites. Make sure to use a different OS on the virtual machine. For example, if your main OS is Windows or MacOS, make the virtual machine Ubuntu. Also, install a secure browser on the virtual machine. But never log into your online accounts from the virtual machine's web browser. Never keep the virtual machine turned on and destroy it once in a while and build a new one (this can be easily done by using a clone). When you are using the virtual machine, connect the virtual machine to a VPN and use a different IP address.
