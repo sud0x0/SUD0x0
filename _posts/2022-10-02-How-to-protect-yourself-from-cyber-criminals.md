@@ -12,8 +12,6 @@ Keywords: cyber criminals, cyber security, cybercrime, cyber safe
 <br>
 
 
-<br>
-
 This is an extensive list of tasks that I believe are necessary to perform to secure ourselves from cyber criminals. This is based on my view as a penetration tester. For example, what I look at when I have to conduct a social engineering attack, what I would focus on to attack a particular target, etc. This article has three main parts.
 -  How to prepare your tools and environments?
 -  Day-to-day activities
