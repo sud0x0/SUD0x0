@@ -11,12 +11,6 @@ Keywords: cyber criminals, cyber security, cybercrime, cyber safe
 <p style="font-size:12px"><a href="https://www.pexels.com/photo/man-doing-boxing-163403/" target="_blank">Photo by Pixabay.</a></p>
 <br>
 
-***
-
-<font color="red">If you are reading this article to figure out the immediate responses that you need to take to minimise the potential damage of the Optus data breach, I recommend you stop reading this article and follow the articles below.</font> 
-<a href="https://www.oaic.gov.au/updates/news-and-media/advice-on-optus-data-breach" target="_blank">OAIC</a> | <a href="https://www.cyber.gov.au/acsc/view-all-content/alerts/optus-notifies-customers-cyberattack-compromising-customer-information" target="_blankl">ACSC</a>
-
-***
 
 <br>
 
@@ -330,8 +324,6 @@ Some services do not use encrypted emails. This could breach the confidentiality
 In this way, people can identify your card number quickly. Some services only ask for the card number and expiration date. They do not ask for a CVV number or try to verify the actions by sending a message.
 
 - Temporarily lock the debit or credit cards if they are not getting used often. This could prevent access to your money if the card details are compromised. 
-
-- Hide your PIN number from cameras and people when using them.
 
 - Configure the devices to request a password when you are using RFID-based payment solutions such as watches and rings. 
 
