@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 date: 2023-06-03
@@ -7,7 +6,6 @@ image: /images/Article_3_Image_1.jpeg
 excerpt: "This article discusses a method for quickly assessing the security of a system before using more comprehensive methods like penetration testing."
 Keywords: Information Systems Security, Cyber Security, Penetration Testing, Threat Modelling, Identifying Vulnerabilities, Design Security Review
 ---
-```
 
 <img class="blog-main-image" src="https://sud0x0.com/images/Article_3_Image_1.jpeg">
 <p style="font-size:12px"><a href="https://www.pexels.com/photo/tiger-photography-2668606/" target="_blankl">Photo by Robert Stokoe.</a></p>
