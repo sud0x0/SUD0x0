@@ -18,7 +18,7 @@ When it comes to assessing the security of a system, many methods can be used, s
 4. Handling sensitive data and information
 5. Patching and version control
 6. Used technology and architecture
-7. Security testing
+7. Security testing and compliance requirements
 8. Logging and monitoring
 9. Business continuity plan
 
@@ -123,7 +123,7 @@ How would you use this in our example? The following questions are some of the a
 
 <br>
 
-### 7. Security testing
+### 7. Security testing and compliance requirements
 
 Another important area to focus on is whether this system has gone through security testing or not. If so, how and what were the findings?
 
@@ -131,6 +131,7 @@ How would you use this in our example? The following questions are some of the a
 - Did the web application use static code analysis during the development phase?
 - Did the web application go through a penetration test before getting into production?
 - Do the servers go through routine vulnerability scanning?
+- What are the compliance requirements related to this application? For example, ISO 27001 or PCI DSS
 
 <br>
 
@@ -166,7 +167,7 @@ The article discusses a method for quickly assessing the security of a system be
 4. Handling sensitive data,
 5. Patching and version control,
 6. Technology and architecture,
-7. Security testing,
+7. Security testing and compliance requirements,
 8. Logging and monitoring,
 9. Business continuity plan.
 
