@@ -204,7 +204,11 @@ p.quote_about {
 a.quote_text_a {
     font-size: 14px;
 }
-
+@media (max-width:1120px) {
+.B_0x0 {
+    justify-content: center;
+}
+}
 
 
 
